@@ -1,4 +1,4 @@
-#!/novo/users/zell/Python-3.9/bin/python3.9
+#!/bin/env python3.9
 import requests, heapq, csv, sys
 start = sys.argv[2]
 end = sys.argv[3]
